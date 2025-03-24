@@ -113,7 +113,7 @@ A Spring Boot application providing a RESTful API to manage books in a bookstore
   - **POST /books/{id}**:
   - ![Create Book](https://github.com/Gathuh/Book-Store-Rest-API/blob/main/Screenshot%20from%202025-03-24%2011-02-31.png )
 - **GET /books**:  
-  [![Get All Books]()](https://github.com/Gathuh/Book-Store-Rest-API/blob/main/Screenshot%20from%202025-03-24%2011-03-47.png)
+  [![Get All Books](https://github.com/Gathuh/Book-Store-Rest-API/blob/main/Screenshot%20from%202025-03-24%2011-03-47.png)
 - **GET /books/{id}**:  
   ![Get Book by ID](https://github.com/Gathuh/Book-Store-Rest-API/blob/main/Screenshot%20from%202025-03-24%2011-04-17.png)
   
