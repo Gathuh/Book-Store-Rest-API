@@ -40,8 +40,8 @@ A Spring Boot application providing a RESTful API to manage books in a bookstore
      spring:
        datasource:
          url: jdbc:mysql://localhost:3306/book_store_db
-         username: root
-         password: Macharia@2030
+         username: 
+         password: 
      ```
 
 3. **Build and Run**:
