@@ -1,4 +1,4 @@
-```markdown
+
 # Bookstore RESTful API
 
 A Spring Boot application providing a RESTful API to manage books in a bookstore, built with MySQL, DTOs, and a modular service implementation.
@@ -26,9 +26,9 @@ A Spring Boot application providing a RESTful API to manage books in a bookstore
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone (https://github.com/Gathuh/Book-Store-Rest-API)
    cd bookstore-api
-   ```
+ 
 
 2. **Configure MySQL**:
    - Create the database:
